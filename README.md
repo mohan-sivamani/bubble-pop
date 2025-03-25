@@ -13,3 +13,9 @@ Screenshots:
 <img src="./Screenshots/Bubble Pop Screenshot-1.png" width ="25%" height ="25%">
 <img src="./Screenshots/Bubble Pop Screenshot-2.png" width ="25%" height ="25%">
 <img src="./Screenshots/Bubble Pop Screenshot-3.png" width ="25%" height ="25%">
+
+<hr>
+
+This project is licensed with GPL v3
+
+<img src="./repo-assets/gpl-v3-logo.svg" width="50%" height="50%">
